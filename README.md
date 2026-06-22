@@ -58,6 +58,11 @@ The system continuously monitors the distance of nearby objects and activates an
 ![Intruder Alert](screenshots/intruder-alert.png)
 
 ---
+## Wokwi Project
+
+🔗 Live Simulation: https://wokwi.com/projects/467549387435506689
+
+---
 
 ## Author
 
