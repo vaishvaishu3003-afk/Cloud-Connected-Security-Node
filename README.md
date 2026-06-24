@@ -47,15 +47,15 @@ The system continuously monitors the distance of nearby objects and activates an
 
 ### Circuit Diagram
 
-![Circuit](screenshots/circuit.png)
+![Circuit](screenshot/circuit.png)
 
 ### Safe Mode
 
-![Safe Mode](screenshots/safe-mode.png)
+![Safe Mode](screenshot/safe-mode.png)
 
 ### Intruder Alert
 
-![Intruder Alert](screenshots/intruder-alert.png)
+![Intruder Alert](screenshot/intruder-alert.png)
 
 ---
 ## Wokwi Project
